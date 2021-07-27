@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Heart Attack.Plugins", "Space Heart Attack.Plugins.csproj", "{8E0E13E3-1053-C50D-BE9A-7C913574E2E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Heart Attack", "Space Heart Attack.csproj", "{D43EE76D-A212-CCA2-C30E-26733831D0A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Space Heart Attack.Editor", "Space Heart Attack.Editor.csproj", "{B8D5D218-3B10-D5B7-33AA-9E243DD8AADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E0E13E3-1053-C50D-BE9A-7C913574E2E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0E13E3-1053-C50D-BE9A-7C913574E2E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0E13E3-1053-C50D-BE9A-7C913574E2E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0E13E3-1053-C50D-BE9A-7C913574E2E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D43EE76D-A212-CCA2-C30E-26733831D0A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D43EE76D-A212-CCA2-C30E-26733831D0A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D43EE76D-A212-CCA2-C30E-26733831D0A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D43EE76D-A212-CCA2-C30E-26733831D0A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8D5D218-3B10-D5B7-33AA-9E243DD8AADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D5D218-3B10-D5B7-33AA-9E243DD8AADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D5D218-3B10-D5B7-33AA-9E243DD8AADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D5D218-3B10-D5B7-33AA-9E243DD8AADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
