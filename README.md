@@ -54,7 +54,7 @@ Main features:
 * Extreme game mode available
 * Several platforms supported: PC / Mac / Android
 
-The early prototype was developed for Android with Unity game engine and featured several users upon release on [Google Play Store](https://play.google.com/store/apps/details?id=com.SevaneGames.SpaceHeartAttack).
+The early prototype was developed for Android with Unity game engine and featured several users upon release on Google Play Store.
 
 <p align="center">
 	<img src="doc/App_1.png" width="433">
