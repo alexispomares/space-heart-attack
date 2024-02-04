@@ -1,6 +1,6 @@
 # Space Heart Attack
 
-Space Heart Attack is part of a project which aims at using an individual's heart rate in real time to play a game. The system consists in a portable hardware device wirelessly connected to a smartphone running a game app. Here we present the main features as well as the first prototype.
+[Space Heart Attack](https://play.google.com/store/apps/details?id=com.SevaneGames.SpaceHeartAttack&hl=gsw&pli=1) is part of a project which aims at using an individual's heart rate in real time to play a game. The system consists in a portable hardware device wirelessly connected to a smartphone running a game app. Here we present the main features as well as the first prototype.
 
 ## Motivations
 
